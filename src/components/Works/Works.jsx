@@ -1,14 +1,14 @@
 import React from 'react';
 import './Works.css';
 
-import Portfolio1 from '../../assets/portfolio-1.png';
-import Portfolio2 from '../../assets/portfolio-2.png';
-import Portfolio3 from '../../assets/portfolio-3.png';
-import Portfolio4 from '../../assets/portfolio-4.png';
-import Portfolio5 from '../../assets/portfolio-5.png';
-import Portfolio6 from '../../assets/portfolio-6.png';
-import Portfolio7 from '../../assets/portfolio-7.png';
-import Portfolio8 from '../../assets/portfolio-8.jpg';
+import Portfolio1 from "../../assets/portfolio-1.PNG";
+import Portfolio2 from "../../assets/portfolio-2.PNG";
+import Portfolio3 from "../../assets/portfolio-3.PNG";
+import Portfolio4 from "../../assets/portfolio-4.PNG";
+import Portfolio5 from "../../assets/portfolio-5.PNG";
+import Portfolio6 from "../../assets/portfolio-6.PNG";
+import Portfolio7 from "../../assets/portfolio-7.PNG";
+import Portfolio8 from "../../assets/portfolio-8.JPG";
 
 const Works = () => {
     const projects = [
