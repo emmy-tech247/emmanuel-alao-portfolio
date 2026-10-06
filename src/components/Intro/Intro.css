@@ -1,0 +1,130 @@
+#intro {
+    min-height: calc(100vh - 4rem);
+    width: 100%;
+    max-width: 75rem;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+}
+
+.introContent {
+    min-height: calc(100vh - 4rem);
+    width: 100%;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    z-index: 1;
+}
+
+.hello {
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin-bottom: 0.5rem;
+}
+
+.introText {
+    font-size: 3.5rem;
+    line-height: 1.1;
+    font-weight: 700;
+    margin: 0;
+}
+
+.introName {
+    color: #f5c542;
+}
+
+.introPara {
+    max-width: 700px;
+    margin-top: 1.5rem;
+    font-size: 1.05rem;
+    line-height: 1.8;
+    font-weight: 400;
+    color: #ccc;
+}
+
+.introSkills {
+    max-width: 750px;
+    margin-top: 1rem;
+    font-size: 0.95rem;
+    line-height: 1.7;
+    color: #aaa;
+}
+
+.btn {
+    width: fit-content;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: white;
+    color: #111;
+    margin-top: 1.5rem;
+    padding: 0.85rem 1.5rem;
+    border: none;
+    border-radius: 2rem;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.btn:hover {
+    transform: translateY(-3px);
+    background: #f5c542;
+}
+
+.btnImg {
+    object-fit: cover;
+    height: 1rem;
+    width: 1rem;
+}
+
+@media screen and (max-width: 840px) {
+    .introContent {
+        padding: 2rem 1.5rem;
+    }
+
+    .introText {
+        font-size: 9vw;
+    }
+
+    .hello {
+        font-size: 4.5vw;
+    }
+
+    .introPara {
+        font-size: 1rem;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    #intro {
+        min-height: calc(100vh - 4rem);
+    }
+
+    .introContent {
+        padding: 1.5rem;
+    }
+
+    .introText {
+        font-size: 11vw;
+    }
+
+    .hello {
+        font-size: 1.1rem;
+    }
+
+    .introPara {
+        font-size: 0.95rem;
+        line-height: 1.7;
+    }
+
+    .introSkills {
+        font-size: 0.85rem;
+    }
+
+    .btn {
+        padding: 0.75rem 1.25rem;
+    }
+}
