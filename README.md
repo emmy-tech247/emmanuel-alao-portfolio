@@ -20,7 +20,7 @@ The following screenshots showcase the portfolio interface and its responsive de
 
 ### 3. Contact Section
 
-![Portfolio Contact Section](contact.PNG)
+![Portfolio Contact Section](contact2.PNG)
 
 ### 4. Mobile View
 
