@@ -16,7 +16,7 @@ The following screenshots showcase the portfolio interface and its responsive de
 
 ### 2. Projects Section
 
-![Portfolio Projects Section](projects.PNG)
+![Portfolio Projects Section](projects2.PNG)
 
 ### 3. Contact Section
 
