@@ -12,19 +12,19 @@ The following screenshots showcase the portfolio interface and its responsive de
 
 ### 1. Portfolio Homepage
 
-![Portfolio Homepage](homepage.png)
+![Portfolio Homepage](homepage2.PNG)
 
 ### 2. Projects Section
 
-![Portfolio Projects Section](projects.png)
+![Portfolio Projects Section](projects.PNG)
 
 ### 3. Contact Section
 
-![Portfolio Contact Section](contact.png)
+![Portfolio Contact Section](contact.PNG)
 
 ### 4. Mobile View
 
-![Portfolio Mobile View](mobile-view.png)
+![Portfolio Mobile View](mobile-view.PNG)
 
 > **Note:** Replace these image references with screenshots captured from your actual website. GitHub will display the images after you upload the corresponding files to the `screenshots` folder.
 
